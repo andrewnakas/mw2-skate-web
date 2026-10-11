@@ -23,6 +23,7 @@ members = [
     "crates/bootstrap",
     "crates/audio",
     "crates/bots",
+    "crates/clean_export",
     "crates/clipmap_iw4",
     "crates/console",
     "crates/d3d9_decl",
